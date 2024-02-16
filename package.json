@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "express_commerce",
+  "version": "1.0.0",
+  "description": "Backend of ecommerece site",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "backend",
+    "e-commerce"
+  ],
+  "author": "Ayan",
+  "license": "ISC"
+}

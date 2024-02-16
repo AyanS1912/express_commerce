@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "desc": "Description of Product 1",
+    "price": 19.99,
+    "stock": 100,
+    "img": "https://example.com/product1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "desc": "Description of Product 2",
+    "price": 29.99,
+    "stock": 50,
+    "img": "https://example.com/product2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "desc": "Description of Product 3",
+    "price": 39.99,
+    "stock": 75,
+    "img": "https://example.com/product3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "desc": "Description of Product 4",
+    "price": 49.99,
+    "stock": 25,
+    "img": "https://example.com/product4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "desc": "Description of Product 5",
+    "price": 59.99,
+    "stock": 150,
+    "img": "https://example.com/product5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "desc": "Description of Product 6",
+    "price": 69.99,
+    "stock": 200,
+    "img": "https://example.com/product6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Product 7",
+    "desc": "Description of Product 7",
+    "price": 79.99,
+    "stock": 80,
+    "img": "https://example.com/product7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Product 8",
+    "desc": "Description of Product 8",
+    "price": 89.99,
+    "stock": 30,
+    "img": "https://example.com/product8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Product 9",
+    "desc": "Description of Product 9",
+    "price": 99.99,
+    "stock": 120,
+    "img": "https://example.com/product9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Product 10",
+    "desc": "Description of Product 10",
+    "price": 109.99,
+    "stock": 60,
+    "img": "https://example.com/product10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Product 11",
+    "desc": "Description of Product 11",
+    "price": 119.99,
+    "stock": 90,
+    "img": "https://example.com/product11.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Product 13",
+    "desc": "Description of Product 13",
+    "price": 139.99,
+    "stock": 70,
+    "img": "https://example.com/product13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Product 14",
+    "desc": "Description of Product 14",
+    "price": 149.99,
+    "stock": 40,
+    "img": "https://example.com/product14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Product 15",
+    "desc": "Description of Product 15",
+    "price": 159.99,
+    "stock": 180,
+    "img": "https://example.com/product15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Product 16",
+    "desc": "Description of Product 16",
+    "price": 169.99,
+    "stock": 100,
+    "img": "https://example.com/product16.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Product 17",
+    "desc": "Description of Product 17",
+    "price": 179.99,
+    "stock": 50,
+    "img": "https://example.com/product17.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Mobile",
+    "desc": "Android",
+    "price": 189.99,
+    "stock": 25,
+    "img": "https://example.com/product18.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Product 19",
+    "desc": "Description of Product 19",
+    "price": 199.99,
+    "stock": 200,
+    "img": "https://example.com/product19.jpg"
+  },
+  {
+    "id": 20,
+    "name": "new product hai",
+    "desc": "new",
+    "price": 1000000,
+    "stock": 10,
+    "img": 1000000
+  },
+  {
+    "id": 21,
+    "name": "Product Name",
+    "desc": "Product Description",
+    "price": 99.99,
+    "stock": 35,
+    "img": "https://example.com/image.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Product Name",
+    "desc": "Product Description",
+    "price": 99.99,
+    "stock": 50,
+    "img": "https://example.com/image.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Phone",
+    "desc": "Ayan Sheikh",
+    "price": 99.99,
+    "stock": 50,
+    "img": "https://example.com/image.jpg"
+  }
+]
